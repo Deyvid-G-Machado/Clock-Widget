@@ -23,9 +23,9 @@ def startclock():
     window.geometry('+{}+{}'.format(x, y))
     window.mainloop()
 
-lb1 = Label(root, text="Coloque a localização que ficara o widget:")
-lb2 = Label(root, text="Distancia da esqueda: ")
-lb3 = Label(root, text="Distacia do topo: ")
+lb1 = Label(root, text="Put the location that will be the widget:")
+lb2 = Label(root, text="Distance from left: ")
+lb3 = Label(root, text="Distance from top: ")
 
 ed1 = Entry(root)
 ed2 = Entry(root)
