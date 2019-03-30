@@ -1,3 +1,5 @@
+#Created by Deyvid g. m.
+#GitHub: https://github.com/Srflash
 from tkinter import *
 from time import strftime
 
