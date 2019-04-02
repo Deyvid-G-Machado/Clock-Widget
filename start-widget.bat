@@ -1,1 +1,0 @@
-pythonw widget-center.py
